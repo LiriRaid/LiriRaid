@@ -27,9 +27,9 @@
 
 ## 🧭 Sobre mí
 
-Soy un desarrollador orientado principalmente al **frontend con Angular**, con un enfoque fuerte en construir aplicaciones que puedan crecer de forma ordenada, clara y mantenible.
+Soy un desarrollador orientado principalmente al **frontend con Angular**, con un enfoque fuerte en construir aplicaciones web que puedan crecer de forma ordenada, clara y mantenible.
 
-Me interesa trabajar en productos donde la calidad visual, la arquitectura y la lógica del negocio tengan el mismo peso.  
+Me interesa trabajar en desarrollos donde la calidad visual, la arquitectura y la lógica del negocio tengan el mismo peso.  
 Por eso, una parte importante de mi trabajo está en diseñar estructuras que no solo funcionen hoy, sino que sigan teniendo sentido cuando el sistema evolucione.
 
 Actualmente, uno de mis principales intereses es aplicar principios como **Screaming Architecture** en proyectos Angular, buscando que la estructura del código refleje el dominio y las funcionalidades del producto antes que la herramienta en sí.
